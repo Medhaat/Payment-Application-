@@ -1,0 +1,3 @@
+﻿  Application.c
+C:\Users\ICONICS_USER\Desktop\Projects\Payment Project\Payment Project\Payment Project\Application.c(24,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Payment Project.vcxproj -> C:\Users\ICONICS_USER\Desktop\Projects\Payment Project\Payment Project\x64\Debug\Payment Project.exe
